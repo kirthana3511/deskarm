@@ -1,4 +1,4 @@
-# Desk Arm — 6DOF Robotic Arm Project
+# Desk Arm 6DOF Robotic Arm Project
 
 Welcome to **Desk Arm**, a clean and powerful 6DOF robotic arm designed to chill right on your desk and flex some serious motion control. Built for makers, tinkerers, and anyone who wants a piece of next-gen automation.
 
@@ -56,7 +56,6 @@ Desk Arm uses 6 degrees of freedom powered by a mix of NEMA17 and NEMA23 stepper
 
 **302.71 USD**
 
-We kept Desk Arm lean and affordable. Budget stays way below 350 bucks so you still got room for upgrades or extra sensors.
 
 ---
 
