@@ -6,9 +6,6 @@ Welcome to **Desk Arm**, a clean and powerful 6DOF robotic arm designed to chill
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/239f6f9e-5505-4db3-aebc-9ff2634ad69e" />
 
 
-## What's the Vibe?
-
-Desk Arm uses 6 degrees of freedom powered by a mix of NEMA17 and NEMA23 stepper motors. It’s got wireless control, featherlight brains, and smooth mechanical moves. Whether you’re automating tasks or just building for the thrill, this setup’s got your back.
 
 ---
 
