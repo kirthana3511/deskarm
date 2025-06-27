@@ -1,5 +1,4 @@
 # Desk Arm Build Journal  
-Design Phase Edition
 
 Total Hours: 57.5
 
