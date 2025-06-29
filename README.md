@@ -2,8 +2,8 @@
 
 Welcome to **Desk Arm**, a clean and powerful 6DOF robotic arm designed to chill right on your desk and flex some serious motion control. Built for makers, tinkerers, and anyone who wants a piece of next-gen automation.
 
+![image](https://github.com/user-attachments/assets/dbac41c4-feb6-4633-b785-79de070ddd18)
 
-<img width="472" alt="image" src="https://github.com/user-attachments/assets/239f6f9e-5505-4db3-aebc-9ff2634ad69e" />
 
 
 
@@ -57,7 +57,8 @@ Welcome to **Desk Arm**, a clean and powerful 6DOF robotic arm designed to chill
 ---
 
 ## some pictures
-<img width="372" alt="image" src="https://github.com/user-attachments/assets/58f37127-488a-45f8-ac9e-2f2cbc045f88" />
+![image](https://github.com/user-attachments/assets/46749e82-4d4e-49d3-a910-6f2b5302f0e0)
+
 
 ![image](https://github.com/user-attachments/assets/a75b9d03-6a99-4610-8127-38a2b8842625)
 ![image](https://github.com/user-attachments/assets/2a3e46d5-90c6-4d44-a17c-b140bf48263a)
